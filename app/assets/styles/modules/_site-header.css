@@ -100,6 +100,7 @@
     @mixin atMedium {
       display: none;
     }
+    
   }
   
   &__menu-icon--close-x {
